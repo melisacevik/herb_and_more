@@ -25,7 +25,7 @@
           class="dropdown-menu dropdown-menu-white rounded-0"
           aria-labelledby="navbarDarkDropdownMenuLink"
         >
-          <li><a class="dropdown-item" href="#">Spice</a></li>
+          <li><router-link class="dropdown-item" to="/product/spices">Spice</router-link></li>
           <li><router-link class="dropdown-item" to="/product/seasonings">Seasonings</router-link></li>
           <li><a class="dropdown-item" href="#">Herbs</a></li>
           <li><a class="dropdown-item" href="#">Herbal Teas</a></li>
@@ -53,7 +53,8 @@
       <li class="d-none d-md-block">
         <a
           class="text-decoration-none text-white fw-normal"
-          href="#"
+          href="../Catalogue_2022.pdf"
+          target="_blank"
         >
           E-Catalog
         </a>

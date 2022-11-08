@@ -4,6 +4,8 @@ import Seasonings from '../views/Seasonings.vue'
 import Recipes from '../views/Recipes.vue'
 import HerbalOil from '../views/HerbalOil.vue'
 import OurStory from '../views/OurStory.vue'
+import CatalogueView from '../views/CatalogueView.vue'
+import Spices from '../views/Spices.vue'
 
 const routes = [
   {
@@ -15,6 +17,12 @@ const routes = [
     path: '/product/seasonings',
     name: 'seasonings',
     component: Seasonings
+  },
+  
+  {
+    path: '/product/spices',
+    name: 'Spices',
+    component: Spices
   },
   {
     path: '/recipes',
@@ -30,6 +38,11 @@ const routes = [
     path: '/story',
     name: 'story',
     component: OurStory
+  },
+  {
+    path: '/catalogue',
+    name: 'CatalogueView',
+    component: CatalogueView
   },
 ]
 

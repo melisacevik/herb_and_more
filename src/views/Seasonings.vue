@@ -5,11 +5,11 @@
     <div class="spices-banner">
       <div class="container-fluid p-0 overflow-hidden">
         <div class="row p-0 position-relative">
-          <img class="img-fluid" src="../assets/spice_banner.png" alt="" />
+          <img class="img-fluid" src="../assets/seasonings/spice_banner.png" alt="" />
           <h2
             class="fw-600 position-absolute bottom-0 start-0 text-white pb-md-5"
           >
-            BLENDS AND SEASONINGS
+            BLENDS & SEASONINGS
           </h2>
         </div>
       </div>
@@ -19,7 +19,7 @@
     <div class="container spices">
       <div class="row">
         <div class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center">
-          <img class="img-fluid" src="../assets/black_pepper_2.png" alt="" />
+          <img class="img-fluid" src="../assets/seasonings/black_pepper_2.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
             <p class="title text-start">Black Pepper</p>
             <p class="desc text-start">
@@ -34,7 +34,7 @@ Use black pepper to add flavour to meat, fish, vegetables and more.
           </div>
         </div>
         <div class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center">
-          <img class="img-fluid" src="../assets/fajita_1.png" alt="" />
+          <img class="img-fluid" src="../assets/seasonings/fajita_1.png" alt="" />
           <div class="d-flex flex-column align-items-start">
             <p class="title text-start">Fajita</p>
             <p class="desc text-start">
@@ -50,7 +50,7 @@ A hot blend of Fajita Spice can elevate any recipe; especially Mexican cuisine f
           </div>
         </div>
         <div class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center">
-          <img class="img-fluid" src="../assets/garam_masala_1.png" alt="" />
+          <img class="img-fluid" src="../assets/seasonings/garam_masala_1.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
             <p class="title text-start">Garam Masala</p>
             <p class="desc text-start">
@@ -65,7 +65,7 @@ Aromatic and spicy blend perfect for making roast chicken; also, pairs great wit
           </div>
         </div>
         <div class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center">
-          <img class="img-fluid" src="../assets/white_pepper_1.png" alt="" />
+          <img class="img-fluid" src="../assets/seasonings/white_pepper_1.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
             <p class="title text-start">White Pepper</p>
             <p class="desc text-start">
@@ -81,7 +81,7 @@ Also white pepper is a key ingredient in Chinese cuisine and more common than bl
           </div>
         </div>
         <div class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center">
-          <img class="img-fluid" src="../assets/garam_masala_1.png" alt="" />
+          <img class="img-fluid" src="../assets/seasonings/kajun_1.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
             <p class="title text-start">Cajun</p>
             <p class="desc text-start">
@@ -97,7 +97,7 @@ Cajun has an intense flavour similar to curry.
           </div>
         </div>
         <div class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center">
-          <img class="img-fluid" src="../assets/white_pepper_1.png" alt="" />
+          <img class="img-fluid" src="../assets/seasonings/steak_seasoning.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
             <p class="title text-start">Steak Seasoning</p>
             <p class="desc text-start">
@@ -113,7 +113,7 @@ Taste-test to see if the steak needs a bit of steak seasoning. Cook your steak u
           </div>
         </div>
         <div class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center">
-          <img class="img-fluid" src="../assets/garam_masala_1.png" alt="" />
+          <img class="img-fluid" src="../assets/seasonings/garam_masala_1.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
             <p class="title text-start">Garam Masala</p>
             <p class="desc text-start">
@@ -128,7 +128,7 @@ Aromatic and spicy blend perfect for making roast chicken; also, pairs great wit
           </div>
         </div>
         <div class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center">
-          <img class="img-fluid" src="../assets/white_pepper_1.png" alt="" />
+          <img class="img-fluid" src="../assets/seasonings/white_pepper_1.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
             <p class="title text-start">White Pepper</p>
             <p class="desc text-start">
@@ -169,6 +169,10 @@ export default {
   border: 1px solid #ffff;
   &:hover {
     border: 1px solid #000000;
+  }
+  img {
+    width: 248px;
+    height: 248px;
   }
   .title {
     font-size: 22px;
