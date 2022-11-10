@@ -6,6 +6,9 @@ import HerbalOil from '../views/HerbalOil.vue'
 import OurStory from '../views/OurStory.vue'
 import CatalogueView from '../views/CatalogueView.vue'
 import Spices from '../views/Spices.vue'
+import Herbs from '../views/Herbs.vue'
+import LargePackages from '../views/LargePackages.vue'
+import HerbalTeas from '../views/HerbalTeas.vue'
 
 const routes = [
   {
@@ -23,6 +26,21 @@ const routes = [
     path: '/product/spices',
     name: 'Spices',
     component: Spices
+  },
+  {
+    path: '/product/herbs',
+    name: 'Herbs',
+    component: Herbs
+  },
+  {
+    path: '/product/large-packages',
+    name: 'LargePackages',
+    component: LargePackages
+  },
+  {
+    path: '/product/herbal-teas',
+    name: 'HerbalTeas',
+    component: HerbalTeas
   },
   {
     path: '/recipes',

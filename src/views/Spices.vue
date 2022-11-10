@@ -22,7 +22,7 @@
     <div class="container spices">
       <div class="row">
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/allspic.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -40,11 +40,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/allspice.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -62,11 +62,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/Aniseed_2.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -79,11 +79,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img
             class="img-fluid"
@@ -104,11 +104,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/cardamon.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -124,11 +124,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img
             class="img-fluid"
@@ -145,11 +145,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img
             class="img-fluid"
@@ -166,11 +166,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img
             class="img-fluid"
@@ -191,11 +191,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img
             class="img-fluid"
@@ -216,11 +216,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/clove.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -238,11 +238,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img
             class="img-fluid"
@@ -259,11 +259,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/coriander.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -280,11 +280,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img
             class="img-fluid"
@@ -305,11 +305,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img
             class="img-fluid"
@@ -330,11 +330,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/curry.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -347,11 +347,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img
             class="img-fluid"
@@ -372,11 +372,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img
             class="img-fluid"
@@ -393,11 +393,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/Ginner.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -414,11 +414,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/lemon_salt.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -434,11 +434,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/llinseeds.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -455,11 +455,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img
             class="img-fluid"
@@ -475,11 +475,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/nigella.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -496,11 +496,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img
             class="img-fluid"
@@ -521,11 +521,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/pine_nut.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -542,11 +542,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img
             class="img-fluid"
@@ -567,11 +567,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/poppy.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -584,11 +584,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/sesame.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -605,11 +605,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/sumac.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -622,11 +622,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img
             class="img-fluid"
@@ -647,11 +647,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img class="img-fluid" src="../assets/spices/turmeric.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -667,11 +667,11 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex align-items-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
         >
           <img
             class="img-fluid"
@@ -691,7 +691,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
-            <button class="bg-black px-5 text-white">soon available</button>
+            
           </div>
         </div>
       </div>

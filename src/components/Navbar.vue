@@ -27,9 +27,9 @@
         >
           <li><router-link class="dropdown-item" to="/product/spices">Spice</router-link></li>
           <li><router-link class="dropdown-item" to="/product/seasonings">Seasonings</router-link></li>
-          <li><a class="dropdown-item" href="#">Herbs</a></li>
-          <li><a class="dropdown-item" href="#">Herbal Teas</a></li>
-          <li><a class="dropdown-item" href="#">Big Pack Herb & Spice</a></li>
+          <li><router-link class="dropdown-item" to="/product/herbs">Herbs</router-link></li>
+          <li><router-link class="dropdown-item" to="/product/herbal-teas">Herbal Teas</router-link></li>
+          <li><router-link class="dropdown-item" to="/product/large-packages">Big Pack Herb & Spice</router-link></li>
           <li><router-link class="dropdown-item" to="/product/herbal-oils">Herbal Oils</router-link></li>
         </ul>
       </li>
@@ -109,11 +109,11 @@
           class="dropdown-menu dropdown-menu-white rounded-0"
           aria-labelledby="navbarDarkDropdownMenuLink"
         >
-          <li><a class="dropdown-item" href="#">Spice</a></li>
-          <li><a class="dropdown-item" href="#">Seasonings</a></li>
-          <li><a class="dropdown-item" href="#">Herbs</a></li>
-          <li><a class="dropdown-item" href="#">Herbal Teas</a></li>
-          <li><a class="dropdown-item" href="#">Herbal Oils</a></li>
+          <li><a class="dropdown-item" href="/product/spices">Spice</a></li>
+          <li><a class="dropdown-item" href="/product/seasonings">Seasonings</a></li>
+          <li><a class="dropdown-item" href="/product/herbs">Herbs</a></li>
+          <li><a class="dropdown-item" href="/product/herbal-teas">Herbal Teas</a></li>
+          <li><a class="dropdown-item" href="/product/herbal-oils">Herbal Oils</a></li>
         </ul>
       </li>
       <li class=" list-unstyled mb-4">
