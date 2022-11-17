@@ -40,6 +40,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -62,6 +63,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -79,6 +81,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -104,6 +107,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -124,6 +128,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -145,6 +150,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -166,6 +172,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -191,6 +198,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -216,6 +224,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -238,6 +247,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -259,6 +269,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -280,6 +291,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -305,6 +317,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -330,6 +343,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -347,6 +361,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -372,6 +387,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -393,6 +409,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -414,6 +431,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -434,6 +452,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -455,6 +474,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -475,6 +495,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -496,6 +517,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -521,6 +543,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -542,6 +565,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -567,6 +591,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -584,6 +609,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -605,6 +631,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -622,6 +649,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -647,6 +675,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -667,6 +696,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>
@@ -691,6 +721,7 @@
             <p class="fw-600 note my-3 text-start">
               Storage Information: Store in a cool and dry place
             </p>
+            <button class="bg-black px-5 text-white">soon available</button>
             
           </div>
         </div>

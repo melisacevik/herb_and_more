@@ -30,7 +30,7 @@
             <div
               class="col-12 col-md-4 d-flex flex-column align-items-start z-2 text-white"
             >
-              <h3>OUR STORY</h3>
+              <h3>OUR FACTORY</h3>
               <p class="mt-3 mt-md-5 text-start mb-0">
                 As Herb & More family, we do our job with great love. We pay
                 particular attention to pairing highly developed technologies

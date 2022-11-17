@@ -19,7 +19,7 @@
       <div class="container spices">
         <div class="row">
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
-            <img class="img-fluid" src="../assets/herbal_teas/Cinnamon.jpg" alt="" />
+            <img class="img-fluid" src="../assets/herbal_teas/Cinnamon.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Cinnamon Stick </p>
               <p class="desc text-start">
@@ -32,10 +32,12 @@
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
-            <img class="img-fluid" src="../assets/herbal_teas/Lavender.jpg" alt="" />
+            <img class="img-fluid" src="../assets/herbal_teas/Lavender.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Lavender </p>
               <p class="desc text-start">
@@ -45,10 +47,12 @@
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
-            <img class="img-fluid" src="../assets/herbal_teas/Rose_Plant.jpg" alt="" />
+            <img class="img-fluid" src="../assets/herbal_teas/Rose_Plant.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Rose Petals  </p>
               <p class="desc text-start">
@@ -61,6 +65,8 @@
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
         </div>

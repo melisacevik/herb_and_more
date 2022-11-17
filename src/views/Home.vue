@@ -68,7 +68,7 @@
 
     <!-- ABOUT OUR STORY -->
     <div class="container spices">
-      <h2 class="fw-600 mb-5">SPICES</h2>
+      <!-- <h2 class="fw-600 mb-5">SPICES</h2> -->
       <Splide class="mt-4" :options="options_spices" aria-label="spices">
         <SplideSlide>
           <div class="spice bg-black text-white px-3 pb-4">
@@ -80,7 +80,8 @@
             <span class="note">Storage Information: Store in a cool and dry place</span>
           </div>
         </SplideSlide>
-        <SplideSlide>
+        <SplideSlide class="position-relative">
+          <h2 class="fw-600 mb-5">SPICES</h2>
           <div class="spice bg-black text-white px-3 pb-4">
             <img class="img-fluid" src="../assets/Aniseed.png" alt="">
             <p>Aniseeds are used especially with vegetables and can bring out the colour in many recipes. 
@@ -98,12 +99,129 @@
             <span class="note">Storage Information: Store in a cool and dry place</span>
           </div>
         </SplideSlide>
+
         <SplideSlide>
           <div class="spice bg-black text-white px-3 pb-4">
-            <img class="img-fluid" src="../assets/curry.png" alt="">
-            <p>Curry powder can be the perfect touch on soups, sauces, rice and anything else you can think of! 
+            <img class="img-fluid" src="../assets/herbal_teas/Rose_Plant.png" alt="">
+            <p>An intense aroma and unique flavor of Middle East cuisine.
+
+Rose petal jam is brilliant in every breakfast. Serve with tea, present with cottage cheese. Have fun!
             </p>
-            <div class="fw-700 weight">Weight 70g  </div>
+            <div class="fw-700 weight">Weight 65g  </div>
+            <span class="note">Storage Information: Store in a cool and dry place</span>
+          </div>
+        </SplideSlide>
+        <SplideSlide class="position-relative">
+          <h2 class="fw-600 mb-5">HERBAL TEAS</h2>
+          <div class="spice bg-black text-white px-3 pb-4">
+            <img class="img-fluid" src="../assets/herbal_teas/Cinnamon.png" alt="">
+            <p>Cinnamon Stick adds sweet warmth and spicy aroma to torrijas, capirotada and spiced pumpkin porridge.
+
+It has been used throughout history, especially in Ancient Egypt. 
+            </p>
+            <div class="fw-700 weight">Weight 65g </div>
+            <span class="note">Storage Information: Store in a cool and dry place</span>
+          </div>
+        </SplideSlide>
+        <SplideSlide>
+          <div class="spice bg-black text-white px-3 pb-4">
+            <img class="img-fluid" src="../assets/herbal_teas/Lavender.png" alt="">
+            <p>Get creative in the kitchen while experimenting with lavender. Scones, bread and biscuits can become tastier with lavender.
+            </p>
+            <div class="fw-700 weight">Weight 40g  </div>
+            <span class="note">Storage Information: Store in a cool and dry place</span>
+          </div>
+        </SplideSlide>
+
+        <SplideSlide>
+          <div class="spice bg-black text-white px-3 pb-4">
+            <img class="img-fluid" src="../assets/herbs/basil_dried.png" alt="">
+            <p>The smell of basil is impressively bitter. Thus basil is definitely an authentic final touch to peeled tomatoes, roasted pepper and olive oil.
+
+When you add a pinch of dried basil, it will be difficult to forget the taste of your meal.
+            </p>
+            <div class="fw-700 weight">Weight 40g</div>
+            <span class="note">Storage Information: Store in a cool and dry place</span>
+          </div>
+        </SplideSlide>
+        <SplideSlide class="position-relative">
+          <h2 class="fw-600 mb-5">HERBS</h2>
+          <div class="spice bg-black text-white px-3 pb-4">
+            <img class="img-fluid" src="../assets/herbs/celery.png" alt="">
+            <p>Have you ever tried bread and butter pickles? Celery seeds are perfect for this unbelievable recipe.
+            </p>
+            <div class="fw-700 weight">Weight 70g </div>
+            <span class="note">Storage Information: Store in a cool and dry place</span>
+          </div>
+        </SplideSlide>
+        <SplideSlide>
+          <div class="spice bg-black text-white px-3 pb-4">
+            <img class="img-fluid" src="../assets/herbs/FENNELSEEDS.png" alt="">
+            <p>Fennel is perfect for fantastic recipes!
+
+Get creative with Mediterranean or Italian cuisine. Fennel gives your dishes subtly, smoky flavor.
+            </p>
+            <div class="fw-700 weight">Weight 75g  </div>
+            <span class="note">Storage Information: Store in a cool and dry place</span>
+          </div>
+        </SplideSlide>
+
+        <SplideSlide>
+          <div class="spice bg-black text-white px-3 pb-4">
+            <img class="img-fluid" src="../assets/large_pack/oregano.png" alt="">
+            <p>Here is another fresh and aromatic spice for soups, salads and sauces. Fresh oregano is your easy yet incredible go to spice in kitchen. 
+            </p>
+            <div class="fw-700 weight">Weight 500g | 100g</div>
+            <span class="note">Storage Information: Store in a cool and dry place</span>
+          </div>
+        </SplideSlide>
+        <SplideSlide class="position-relative">
+          <h2 class="fw-600 mb-5">LARGE PACK</h2>
+          <div class="spice bg-black text-white px-3 pb-4">
+            <img class="img-fluid" src="../assets/large_pack/chilli_hot.png" alt="">
+            <p>Use Chilli Powder for a bit of a hot surprise. Chilli Powder is the perfect choice for steaks, burgers and fries.
+            </p>
+            <div class="fw-700 weight">Weight 1000g | 2000g </div>
+            <span class="note">Storage Information: Store in a cool and dry place</span>
+          </div>
+        </SplideSlide>
+        <SplideSlide>
+          <div class="spice bg-black text-white px-3 pb-4">
+            <img class="img-fluid" src="../assets/large_pack/cinnamon.png" alt="">
+            <p>A must have ingredient for the perfect feast. Use in apple crumble, cinnamon rolls and pudding.
+
+The secret to a great dessert is in the detail. Cinnamon ground is the simplest touch with unimaginable taste.
+            </p>
+            <div class="fw-700 weight">Weight 1000g  </div>
+            <span class="note">Storage Information: Store in a cool and dry place</span>
+          </div>
+        </SplideSlide>
+
+        <SplideSlide>
+          <div class="spice bg-black text-white px-3 pb-4">
+            <img class="img-fluid" src="../assets/seasonings/steak_seasoning.png" alt="">
+            <p>Delicious steaks, burgers and chips are always flavored with Steak Seasoning. Taste-test to see if the steak needs a bit of steak seasoning. Cook your steak until brown on all sides.
+            </p>
+            <div class="fw-700 weight">Weight 55g</div>
+            <span class="note">Storage Information: Store in a cool and dry place</span>
+          </div>
+        </SplideSlide>
+        <SplideSlide class="position-relative">
+          <h2 class="fw-600 mb-5">SEASONINGS</h2>
+          <div class="spice bg-black text-white px-3 pb-4">
+            <img class="img-fluid" src="../assets/seasonings/chicken_seasoning.png" alt="">
+            <!-- <p>Authentically delicious fajitas are perfect for more recipe ideas. A hot blend of Fajita Spice can elevate any recipe; especially Mexican cuisine features fajitas, enchiladas or picadillo. 
+            </p> -->
+            <div class="fw-700 weight">Weight 55g </div>
+            <span class="note">Storage Information: Store in a cool and dry place</span>
+          </div>
+        </SplideSlide>
+        <SplideSlide>
+          <div class="spice bg-black text-white px-3 pb-4">
+            <img class="img-fluid" src="../assets/seasonings/pizza_seasoning.png" alt="">
+            <p>Use Garam Masala spice mix for a tastier dish. Aromatic and spicy blend perfect for making roast chicken; also, pairs great with egg bhurji, and more.
+            </p>
+            <div class="fw-700 weight">Weight 55g  </div>
             <span class="note">Storage Information: Store in a cool and dry place</span>
           </div>
         </SplideSlide>
@@ -119,7 +237,7 @@
             <div class="row">
               <div class="col-12">
                 <div
-                  @click="goPage('spices')"
+                  @click="goPage('/product/spices')"
                   class="category-card cursor-pointer position-relative"
                 >
                   <img
@@ -132,7 +250,7 @@
               </div>
               <div class="col-12 col-md-6 mt-4">
                 <div
-                  @click="goPage('herbal-oil')"
+                  @click="goPage('/product/herbal-oils')"
                   class="category-card cursor-pointer position-relative"
                 >
                   <img
@@ -145,7 +263,7 @@
               </div>
               <div class="col-12 col-md-6 mt-4">
                 <div
-                  @click="goPage('herbs')"
+                  @click="goPage('/product/herbs')"
                   class="category-card cursor-pointer position-relative"
                 >
                   <img
@@ -162,7 +280,7 @@
             <div class="row h-100">
               <div class="col-12 col-md-6 col-lg-12 mt-4 mt-lg-0">
                 <div
-                  @click="goPage('herbal-teas')"
+                  @click="goPage('/product/herbal-teas')"
                   class="category-card cursor-pointer position-relative"
                 >
                   <img
@@ -175,7 +293,7 @@
               </div>
               <div class="col-12 col-md-6 col-lg-12 mt-4 mt-lg-0">
                 <div
-                  @click="goPage('seasonings')"
+                  @click="goPage('/product/seasonings')"
                   class="category-card h-100 cursor-pointer position-relative"
                 >
                   <img
@@ -278,9 +396,9 @@
     <div class="container-fluid newsletter">
       <div class="container">
         <h2 class="fw-600 py-5 text-white fw-bold">Sign up for our newspaper</h2>
-        <div class="row flex-column justify-content-center gap-3 fields">
-          <input class="px-3 col-4 py-2 w-100" type="text" name="name" placeholder="Name" id="">
-          <input class="px-3 col-4 py-2 w-100" type="text" name="email" placeholder="Enter your e-mail address" id="">
+        <div class="row flex-column align-items-center justify-content-center gap-3 fields">
+          <input class="px-3 col-4 py-2 col-12 col-md-6" type="text" name="name" placeholder="Name" id="">
+          <input class="px-3 col-4 py-2 col-12 col-md-6" type="text" name="email" placeholder="Enter your e-mail address" id="">
         </div>
         <button class="text-white py-2 mb-4">Subscribe</button>
       </div>
@@ -396,10 +514,17 @@ export default {
 </script>
 <style lang="scss" scoped>
 .spices {
-  margin-top: 80px;
+  margin-top: 100px;
+  h2 {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translate(-50%,0);
+    width: 100%;
+  }
   
   .spice {
-    margin-top: 230px;
+    margin-top: 280px;
     overflow: unset;
     position: relative;
     height: 500px;  

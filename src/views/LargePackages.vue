@@ -32,6 +32,8 @@
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -48,6 +50,8 @@
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -63,6 +67,8 @@ Chilli Powder is the perfect choice for steaks, burgers and fries.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -77,6 +83,8 @@ Chilli Powder is the perfect choice for steaks, burgers and fries.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -92,6 +100,8 @@ Chilli Powder is the perfect choice for steaks, burgers and fries.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -106,6 +116,8 @@ Chilli Powder is the perfect choice for steaks, burgers and fries.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -119,6 +131,8 @@ Chilli Powder is the perfect choice for steaks, burgers and fries.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -133,6 +147,8 @@ Chilli Powder is the perfect choice for steaks, burgers and fries.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -148,6 +164,8 @@ Garlic Powder can be added to almost any soup, meat and vegetable dish.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -162,6 +180,8 @@ Garlic Powder can be added to almost any soup, meat and vegetable dish.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -180,6 +200,8 @@ Intense Isot Pepper Flakes is excellent as an addition to smoked homemade salami
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -198,6 +220,8 @@ Intense Isot Pepper Flakes is excellent as an addition to smoked homemade salami
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -212,6 +236,8 @@ Intense Isot Pepper Flakes is excellent as an addition to smoked homemade salami
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -228,6 +254,8 @@ In Middle Eastern cuisine, parsley adds freshness and color.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -246,6 +274,8 @@ In Middle Eastern cuisine, parsley adds freshness and color.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -264,6 +294,8 @@ In Middle Eastern cuisine, parsley adds freshness and color.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -279,6 +311,8 @@ In Middle Eastern cuisine, parsley adds freshness and color.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -296,6 +330,8 @@ In Middle Eastern cuisine, parsley adds freshness and color.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
         </div>

@@ -32,6 +32,8 @@
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -45,6 +47,8 @@
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -61,6 +65,8 @@
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -74,6 +80,8 @@
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -90,6 +98,8 @@
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -104,6 +114,8 @@ In Middle Eastern cuisine, parsley adds freshness and color.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -120,6 +132,8 @@ In Middle Eastern cuisine, parsley adds freshness and color.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -136,6 +150,8 @@ In Middle Eastern cuisine, parsley adds freshness and color.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
@@ -152,6 +168,8 @@ In Middle Eastern cuisine, parsley adds freshness and color.
               <p class="fw-600 note my-3 text-start">
                 Storage Information: Store in a cool and dry place 
               </p>
+            <button class="bg-black px-5 text-white">soon available</button>
+
             </div>
           </div>
         </div>
