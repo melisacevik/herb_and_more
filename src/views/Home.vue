@@ -312,14 +312,19 @@ The secret to a great dessert is in the detail. Cinnamon ground is the simplest 
 
     <!-- RECIPES -->
     <div class="container recipes">
-      <h2 class="fw-600 py-5">RECIPES</h2>
-      <div class="row">
-        <div class="col-12">
-          <img
+      <div class="row gx-0">
+        <div class="col-12 banner">
+          <div class="text-white p-5">
+            <h2 class="fw-600 text-start">RECIPES</h2>
+            <p class="w-25 text-start mt-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Adipiscing nunc arcu nibh viverra suspendisse.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+</p>
+          </div>
+          <!-- <img
             class="img-fluid w-100"
             src="../assets/recipes_banner.png"
             alt=""
-          />
+          /> -->
         </div>
       </div>
 
@@ -396,9 +401,9 @@ The secret to a great dessert is in the detail. Cinnamon ground is the simplest 
     <div class="container-fluid newsletter">
       <div class="container">
         <h2 class="fw-600 py-5 text-white fw-bold">Sign up for our newspaper</h2>
-        <div class="row flex-column align-items-center justify-content-center gap-3 fields">
-          <input class="px-3 col-4 py-2 col-12 col-md-6" type="text" name="name" placeholder="Name" id="">
-          <input class="px-3 col-4 py-2 col-12 col-md-6" type="text" name="email" placeholder="Enter your e-mail address" id="">
+        <div class="row flex-column flex-md-row align-items-center justify-content-center gap-3 fields">
+          <input class="px-3 col-4 py-2 col-12 col-md-4" type="text" name="name" placeholder="Name" id="">
+          <input class="px-3 col-4 py-2 col-12 col-md-4" type="text" name="email" placeholder="Enter your e-mail address" id="">
         </div>
         <button class="text-white py-2 mb-4">Subscribe</button>
       </div>
@@ -570,6 +575,24 @@ export default {
   .card-details {
     padding: 25px 25px 25px 25px;
   }
+  .banner {
+    position: relative;
+    height: 360px;
+    &::after {
+      content: "  ";
+      background-image: url('../assets/recipes_banner.png');
+      
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+      position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+    }
+  }
 }
 
 .instagram {
@@ -581,11 +604,19 @@ export default {
 
 .newsletter {
   position: relative;
-  margin-top: 80px;
+  &::before {
+    content: "";
+    position: absolute;
+  left: 0;
+  top: 0;
   background-image: url('../assets/newspaper.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  z-index: -2;
+  width: 100%;
+  height: 100%;
+  }
   &::after {
     content: "";
     position: absolute;
@@ -594,6 +625,7 @@ export default {
     width: 100%;
     height: 100%;
     background: rgba(7, 7, 7, 0.3);
+    z-index: -1;
   }
   .fields {
     // padding-top: 52px;

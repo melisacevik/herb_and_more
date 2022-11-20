@@ -53,11 +53,12 @@
       <li class="d-none d-md-block">
         <a
           class="text-decoration-none text-white fw-bold"
-          href="../Catalogue_2022.pdf"
-          target="_blank"
+          href="/catalogue.html"
         >
           E-Catalog
         </a>
+        <!-- <g-link class="cv-button float-right" href="../assets/Catalogue_2022.pdf" target="_blank">E-Catalog</g-link> -->
+
       </li>
 
       <li class="d-none d-md-flex gap-4">
