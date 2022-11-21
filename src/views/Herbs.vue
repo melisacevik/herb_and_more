@@ -173,7 +173,6 @@ In Middle Eastern cuisine, parsley adds freshness and color.
             </div>
           </div>
         </div>
-        <button class="bg-black px-5 text-white">Load more</button>
       </div>
   
     </div>

@@ -9,7 +9,7 @@
             <h2
               class="fw-600 position-absolute bottom-0 start-0 text-white pb-md-5"
             >
-              BLENDS & SEASONINGS
+              HERBAL TEAS
             </h2>
           </div>
         </div>
@@ -70,7 +70,6 @@
             </div>
           </div>
         </div>
-        <button class="bg-black px-5 text-white">Load more</button>
       </div>
   
     </div>

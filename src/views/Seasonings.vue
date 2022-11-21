@@ -144,7 +144,6 @@ Also white pepper is a key ingredient in Chinese cuisine and more common than bl
           </div>
         </div>
       </div>
-      <button class="bg-black px-5 text-white">Load more</button>
     </div>
 
   </div>

@@ -118,28 +118,20 @@
         </ul>
       </li>
       <li class=" list-unstyled mb-4">
-        <router-link
+        <a
           class="text-decoration-none text-white fw-bold"
-          to="/recipes"
+          href="/recipes"
         >
           Recipes
-        </router-link>
+        </a>
       </li>
       <li class=" list-unstyled mb-4">
-        <router-link
+        <a
           class="text-decoration-none text-white fw-bold"
-          to="/your-recipes"
-        >
-          Your Recipes
-        </router-link>
-      </li>
-      <li class=" list-unstyled mb-4">
-        <router-link
-          class="text-decoration-none text-white fw-bold"
-          to="/story"
+          href="/story"
         >
           Our Story
-        </router-link>
+        </a>
       </li>
 
       <div class="d-flex gap-3">

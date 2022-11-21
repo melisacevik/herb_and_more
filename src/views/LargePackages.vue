@@ -168,6 +168,11 @@ Garlic Powder can be added to almost any soup, meat and vegetable dish.
 
             </div>
           </div>
+          
+          
+        </div>
+        <button v-if="!firstLoad" @click="firstLoad = true" class="bg-black px-5 text-white w-auto mx-auto">Load more</button>
+        <div v-if="firstLoad" class="firstLoad row">
           <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
             <img class="img-fluid" src="../assets/large_pack/dill.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
@@ -335,7 +340,6 @@ In Middle Eastern cuisine, parsley adds freshness and color.
             </div>
           </div>
         </div>
-        <button class="bg-black px-5 text-white">Load more</button>
       </div>
   
     </div>
@@ -347,7 +351,9 @@ In Middle Eastern cuisine, parsley adds freshness and color.
     components: {
     },
     data() {
-      return {};
+      return {
+        firstLoad: false
+      };
     },
   };
   </script>

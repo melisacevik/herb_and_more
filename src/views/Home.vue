@@ -70,7 +70,8 @@
     <div class="container spices">
       <!-- <h2 class="fw-600 mb-5">SPICES</h2> -->
       <Splide class="mt-4" :options="options_spices" aria-label="spices">
-        <SplideSlide>
+        <SplideSlide class="position-relative">
+          <h2 class="fw-600 mb-5 d-block d-lg-none">SPICES</h2>
           <div class="spice bg-black text-white px-3 pb-4">
             <img class="img-fluid" src="../assets/allspice.png" alt="">
             <p>You can immediately recognize the powerful scent of Allspice. Why not try in your roasted veal? 
@@ -81,7 +82,7 @@
           </div>
         </SplideSlide>
         <SplideSlide class="position-relative">
-          <h2 class="fw-600 mb-5">SPICES</h2>
+          <h2 class="fw-600 mb-5 d-none d-lg-block">SPICES</h2>
           <div class="spice bg-black text-white px-3 pb-4">
             <img class="img-fluid" src="../assets/Aniseed.png" alt="">
             <p>Aniseeds are used especially with vegetables and can bring out the colour in many recipes. 
@@ -100,7 +101,8 @@
           </div>
         </SplideSlide>
 
-        <SplideSlide>
+        <SplideSlide class="position-relative">
+          <h2 class="fw-600 mb-5 d-block d-lg-none">HERBAL TEAS</h2>
           <div class="spice bg-black text-white px-3 pb-4">
             <img class="img-fluid" src="../assets/herbal_teas/Rose_Plant.png" alt="">
             <p>An intense aroma and unique flavor of Middle East cuisine.
@@ -112,7 +114,7 @@ Rose petal jam is brilliant in every breakfast. Serve with tea, present with cot
           </div>
         </SplideSlide>
         <SplideSlide class="position-relative">
-          <h2 class="fw-600 mb-5">HERBAL TEAS</h2>
+          <h2 class="fw-600 mb-5 d-none d-lg-block">HERBAL TEAS</h2>
           <div class="spice bg-black text-white px-3 pb-4">
             <img class="img-fluid" src="../assets/herbal_teas/Cinnamon.png" alt="">
             <p>Cinnamon Stick adds sweet warmth and spicy aroma to torrijas, capirotada and spiced pumpkin porridge.
@@ -133,7 +135,8 @@ It has been used throughout history, especially in Ancient Egypt.
           </div>
         </SplideSlide>
 
-        <SplideSlide>
+        <SplideSlide class="position-relative">
+          <h2 class="fw-600 mb-5 d-block d-lg-none">HERBS</h2>
           <div class="spice bg-black text-white px-3 pb-4">
             <img class="img-fluid" src="../assets/herbs/basil_dried.png" alt="">
             <p>The smell of basil is impressively bitter. Thus basil is definitely an authentic final touch to peeled tomatoes, roasted pepper and olive oil.
@@ -145,7 +148,7 @@ When you add a pinch of dried basil, it will be difficult to forget the taste of
           </div>
         </SplideSlide>
         <SplideSlide class="position-relative">
-          <h2 class="fw-600 mb-5">HERBS</h2>
+          <h2 class="fw-600 mb-5 d-none d-lg-block">HERBS</h2>
           <div class="spice bg-black text-white px-3 pb-4">
             <img class="img-fluid" src="../assets/herbs/celery.png" alt="">
             <p>Have you ever tried bread and butter pickles? Celery seeds are perfect for this unbelievable recipe.
@@ -166,7 +169,8 @@ Get creative with Mediterranean or Italian cuisine. Fennel gives your dishes sub
           </div>
         </SplideSlide>
 
-        <SplideSlide>
+        <SplideSlide class="position-relative">
+          <h2 class="fw-600 mb-5 d-block d-lg-none">LARGE PACK</h2>
           <div class="spice bg-black text-white px-3 pb-4">
             <img class="img-fluid" src="../assets/large_pack/oregano.png" alt="">
             <p>Here is another fresh and aromatic spice for soups, salads and sauces. Fresh oregano is your easy yet incredible go to spice in kitchen. 
@@ -176,7 +180,7 @@ Get creative with Mediterranean or Italian cuisine. Fennel gives your dishes sub
           </div>
         </SplideSlide>
         <SplideSlide class="position-relative">
-          <h2 class="fw-600 mb-5">LARGE PACK</h2>
+          <h2 class="fw-600 mb-5 d-none d-lg-block">LARGE PACK</h2>
           <div class="spice bg-black text-white px-3 pb-4">
             <img class="img-fluid" src="../assets/large_pack/chilli_hot.png" alt="">
             <p>Use Chilli Powder for a bit of a hot surprise. Chilli Powder is the perfect choice for steaks, burgers and fries.
@@ -197,7 +201,8 @@ The secret to a great dessert is in the detail. Cinnamon ground is the simplest 
           </div>
         </SplideSlide>
 
-        <SplideSlide>
+        <SplideSlide class="position-relative">
+          <h2 class="fw-600 mb-5 d-block d-lg-none">SEASONINGS</h2>
           <div class="spice bg-black text-white px-3 pb-4">
             <img class="img-fluid" src="../assets/seasonings/steak_seasoning.png" alt="">
             <p>Delicious steaks, burgers and chips are always flavored with Steak Seasoning. Taste-test to see if the steak needs a bit of steak seasoning. Cook your steak until brown on all sides.
@@ -207,7 +212,7 @@ The secret to a great dessert is in the detail. Cinnamon ground is the simplest 
           </div>
         </SplideSlide>
         <SplideSlide class="position-relative">
-          <h2 class="fw-600 mb-5">SEASONINGS</h2>
+          <h2 class="fw-600 mb-5 d-none d-lg-block">SEASONINGS</h2>
           <div class="spice bg-black text-white px-3 pb-4">
             <img class="img-fluid" src="../assets/seasonings/chicken_seasoning.png" alt="">
             <!-- <p>Authentically delicious fajitas are perfect for more recipe ideas. A hot blend of Fajita Spice can elevate any recipe; especially Mexican cuisine features fajitas, enchiladas or picadillo. 
@@ -316,7 +321,10 @@ The secret to a great dessert is in the detail. Cinnamon ground is the simplest 
         <div class="col-12 banner">
           <div class="text-white p-5">
             <h2 class="fw-600 text-start">RECIPES</h2>
-            <p class="w-25 text-start mt-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Adipiscing nunc arcu nibh viverra suspendisse.
+            <p class="w-25 text-start mt-5 d-none d-md-block">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Adipiscing nunc arcu nibh viverra suspendisse.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+</p>
+            <p class="w-100 text-start mt-5 d-block d-md-none">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Adipiscing nunc arcu nibh viverra suspendisse.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 </p>
           </div>
