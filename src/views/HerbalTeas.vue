@@ -5,7 +5,7 @@
       <div class="spices-banner">
         <div class="container-fluid p-0 overflow-hidden">
           <div class="row p-0 position-relative">
-            <img class="img-fluid" src="../assets/seasonings/spice_banner.png" alt="" />
+            <img class="img-fluid" src="../assets/herbal_teas/herbal_tea.png" alt="" />
             <h2
               class="fw-600 position-absolute bottom-0 start-0 text-white pb-md-5"
             >
@@ -18,7 +18,7 @@
       <!-- SPICES -->
       <div class="container spices">
         <div class="row">
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/herbal_teas/Cinnamon.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Cinnamon Stick </p>
@@ -36,7 +36,7 @@
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/herbal_teas/Lavender.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Lavender </p>
@@ -51,7 +51,7 @@
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/herbal_teas/Rose_Plant.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Rose Petals  </p>

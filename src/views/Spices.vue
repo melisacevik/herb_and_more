@@ -6,7 +6,7 @@
         <div class="row p-0 position-relative">
           <img
             class="img-fluid"
-            src="../assets/seasonings/spice_banner.png"
+            src="../assets/spices/spice.png"
             alt=""
           />
           <h2
@@ -22,7 +22,7 @@
     <div class="container spices">
       <div class="row">
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
         >
           <img class="img-fluid" src="../assets/spices/allspic.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -45,7 +45,7 @@
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
         >
           <img class="img-fluid" src="../assets/spices/allspice.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -68,7 +68,7 @@
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
         >
           <img class="img-fluid" src="../assets/spices/Aniseed_2.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -86,7 +86,7 @@
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
         >
           <img
             class="img-fluid"
@@ -112,7 +112,7 @@
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
         >
           <img class="img-fluid" src="../assets/spices/cardamon.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -133,7 +133,7 @@
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
         >
           <img
             class="img-fluid"
@@ -155,7 +155,7 @@
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
         >
           <img
             class="img-fluid"
@@ -177,7 +177,7 @@
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
         >
           <img
             class="img-fluid"
@@ -203,7 +203,7 @@
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
         >
           <img
             class="img-fluid"
@@ -229,7 +229,7 @@
           </div>
         </div>
         <div
-          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+          class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
         >
           <img class="img-fluid" src="../assets/spices/clove.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
@@ -255,7 +255,7 @@
 
         <div v-if="firstLoad" class="first-load row">
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img
               class="img-fluid"
@@ -277,7 +277,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img class="img-fluid" src="../assets/spices/coriander.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
@@ -299,7 +299,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img
               class="img-fluid"
@@ -325,7 +325,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img
               class="img-fluid"
@@ -351,7 +351,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img class="img-fluid" src="../assets/spices/curry.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
@@ -369,7 +369,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img
               class="img-fluid"
@@ -395,7 +395,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img
               class="img-fluid"
@@ -417,7 +417,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img class="img-fluid" src="../assets/spices/Ginner.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
@@ -439,7 +439,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img class="img-fluid" src="../assets/spices/lemon_salt.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
@@ -460,7 +460,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img class="img-fluid" src="../assets/spices/llinseeds.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
@@ -486,7 +486,7 @@
 
         <div v-if="secondLoad" class="secondLoad row">
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img
               class="img-fluid"
@@ -507,7 +507,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img class="img-fluid" src="../assets/spices/nigella.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
@@ -529,7 +529,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img
               class="img-fluid"
@@ -555,7 +555,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img class="img-fluid" src="../assets/spices/pine_nut.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
@@ -577,7 +577,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img
               class="img-fluid"
@@ -603,7 +603,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img class="img-fluid" src="../assets/spices/poppy.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
@@ -621,7 +621,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img class="img-fluid" src="../assets/spices/sesame.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
@@ -643,7 +643,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img class="img-fluid" src="../assets/spices/sumac.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
@@ -661,7 +661,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img
               class="img-fluid"
@@ -687,7 +687,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img class="img-fluid" src="../assets/spices/turmeric.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
@@ -708,7 +708,7 @@
             </div>
           </div>
           <div
-            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center"
+            class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center"
           >
             <img
               class="img-fluid"

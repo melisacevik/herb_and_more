@@ -5,7 +5,7 @@
       <div class="spices-banner">
         <div class="container-fluid p-0 overflow-hidden">
           <div class="row p-0 position-relative">
-            <img class="img-fluid" src="../assets/seasonings/spice_banner.png" alt="" />
+            <img class="img-fluid" src="../assets/large_pack/big_pack_herbs.png" alt="" />
             <h2
               class="fw-600 position-absolute bottom-0 start-0 text-white pb-md-5"
             >
@@ -18,7 +18,7 @@
       <!-- SPICES -->
       <div class="container spices">
         <div class="row">
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/basil_dried.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Basil </p>
@@ -36,7 +36,7 @@
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/black_peppercorns.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Black Peppercorns </p>
@@ -54,7 +54,7 @@
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/chilli_hot.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Chilli Hot  </p>
@@ -71,7 +71,7 @@ Chilli Powder is the perfect choice for steaks, burgers and fries.
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/chilli_mild.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Chilli Mild  </p>
@@ -87,7 +87,7 @@ Chilli Powder is the perfect choice for steaks, burgers and fries.
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/cinnamon.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Cinnamon Ground   </p>
@@ -104,7 +104,7 @@ Chilli Powder is the perfect choice for steaks, burgers and fries.
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/coconut.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Desiccated Coconut    </p>
@@ -120,7 +120,7 @@ Chilli Powder is the perfect choice for steaks, burgers and fries.
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/cumin.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Cumin Ground  </p>
@@ -135,7 +135,7 @@ Chilli Powder is the perfect choice for steaks, burgers and fries.
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/curry.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Curry Powder   </p>
@@ -151,7 +151,7 @@ Chilli Powder is the perfect choice for steaks, burgers and fries.
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/garlic.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Garlic   </p>
@@ -173,7 +173,7 @@ Garlic Powder can be added to almost any soup, meat and vegetable dish.
         </div>
         <button v-if="!firstLoad" @click="firstLoad = true" class="bg-black px-5 text-white w-auto mx-auto">Load more</button>
         <div v-if="firstLoad" class="firstLoad row">
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/dill.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Dill    </p>
@@ -189,7 +189,7 @@ Garlic Powder can be added to almost any soup, meat and vegetable dish.
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/isot_pepper.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Isot Pepper Flakes     </p>
@@ -209,7 +209,7 @@ Intense Isot Pepper Flakes is excellent as an addition to smoked homemade salami
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/nigella.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Nigella Seeds   </p>
@@ -229,7 +229,7 @@ Intense Isot Pepper Flakes is excellent as an addition to smoked homemade salami
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/oregano.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Oregano   </p>
@@ -245,7 +245,7 @@ Intense Isot Pepper Flakes is excellent as an addition to smoked homemade salami
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/parsley.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Parsley    </p>
@@ -263,7 +263,7 @@ In Middle Eastern cuisine, parsley adds freshness and color.
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/steak_seasoning.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Steak Seasoning     </p>
@@ -283,7 +283,7 @@ In Middle Eastern cuisine, parsley adds freshness and color.
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/sesame.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Sesame   </p>
@@ -303,7 +303,7 @@ In Middle Eastern cuisine, parsley adds freshness and color.
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/sumac.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Sumac    </p>
@@ -320,7 +320,7 @@ In Middle Eastern cuisine, parsley adds freshness and color.
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/large_pack/white_pepper.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">White Pepper Ground     </p>

@@ -215,8 +215,7 @@ The secret to a great dessert is in the detail. Cinnamon ground is the simplest 
           <h2 class="fw-600 mb-5 d-none d-lg-block">SEASONINGS</h2>
           <div class="spice bg-black text-white px-3 pb-4">
             <img class="img-fluid" src="../assets/seasonings/chicken_seasoning.png" alt="">
-            <!-- <p>Authentically delicious fajitas are perfect for more recipe ideas. A hot blend of Fajita Spice can elevate any recipe; especially Mexican cuisine features fajitas, enchiladas or picadillo. 
-            </p> -->
+            <p>A sweet blend that can be used as a dry rub or mixed before rubbing onto chicken. Chicken Seasoning is a great addition to your rack and you can use it for numerous dishes.</p>
             <div class="fw-700 weight">Weight 55g </div>
             <span class="note">Storage Information: Store in a cool and dry place</span>
           </div>
@@ -255,35 +254,18 @@ The secret to a great dessert is in the detail. Cinnamon ground is the simplest 
               </div>
               <div class="col-12 col-md-6 mt-4">
                 <div
-                  @click="goPage('/product/herbal-oils')"
+                  @click="goPage('/product/large-packages')"
                   class="category-card cursor-pointer position-relative"
                 >
                   <img
                     class="img-fluid w-100"
-                    src="../assets/herbal_oil.png"
+                    src="../assets/big_packs.png"
                     alt=""
                   />
-                  <span class="fw-600 text-start">HERBAL OIL</span>
+                  <span class="fw-600 text-start">BIG PACK HERB & SPICE</span>
                 </div>
               </div>
               <div class="col-12 col-md-6 mt-4">
-                <div
-                  @click="goPage('/product/herbs')"
-                  class="category-card cursor-pointer position-relative"
-                >
-                  <img
-                    class="img-fluid w-100"
-                    src="../assets/herbs.png"
-                    alt=""
-                  />
-                  <span class="fw-600 text-start">HERBS</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-12 col-lg-4">
-            <div class="row h-100">
-              <div class="col-12 col-md-6 col-lg-12 mt-4 mt-lg-0">
                 <div
                   @click="goPage('/product/herbal-teas')"
                   class="category-card cursor-pointer position-relative"
@@ -296,17 +278,35 @@ The secret to a great dessert is in the detail. Cinnamon ground is the simplest 
                   <span class="fw-600 text-start">HERBAL TEAS</span>
                 </div>
               </div>
+            </div>
+          </div>
+          <div class="col-12 col-lg-4">
+            <div class="row h-100">
               <div class="col-12 col-md-6 col-lg-12 mt-4 mt-lg-0">
+                
                 <div
                   @click="goPage('/product/seasonings')"
                   class="category-card h-100 cursor-pointer position-relative"
                 >
                   <img
-                    class="img-fluid w-100 h-100"
+                    class="img-fluid w-100 h-100 obj-fit-none bg-black"
                     src="../assets/seasonings.png"
                     alt=""
                   />
-                  <span class="fw-600 text-start">SEASONINGS</span>
+                  <span class="fw-600 text-start">BLENDS & SEASONINGS</span>
+                </div>
+              </div>
+              <div class="col-12 col-md-6 col-lg-12 mt-4 mt-lg-0 d-flex align-items-end">
+                <div
+                  @click="goPage('/product/herbs')"
+                  class="category-card cursor-pointer position-relative w-100"
+                >
+                  <img
+                    class="img-fluid w-100"
+                    src="../assets/herbs.png"
+                    alt=""
+                  />
+                  <span class="fw-600 text-start">HERBS</span>
                 </div>
               </div>
             </div>
@@ -567,9 +567,9 @@ export default {
     span {
       font-size: 30px;
       position: absolute;
-      bottom: 30px;
+      // top: 10px;
       left: 0;
-      background: rgba(0, 0, 0, 0.5);
+      // background: rgba(0, 0, 0, 0.5);
       color: #ffff;
       width: 100%;
       padding: 20px 0 20px 20px;

@@ -4,7 +4,7 @@
       <div class="oil-banner">
         <div class="container-fluid p-0 overflow-hidden">
           <div class="row p-0 position-relative">
-            <img class="img-fluid" src="../assets/spice_banner.png" alt="" />
+            <img class="img-fluid" src="../assets/herbal_oil.png" alt="" />
             <h2
               class="fw-600 position-absolute bottom-0 start-0 text-white pb-md-5"
             >

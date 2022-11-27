@@ -5,7 +5,7 @@
     <div class="spices-banner">
       <div class="container-fluid p-0 overflow-hidden">
         <div class="row p-0 position-relative">
-          <img class="img-fluid" src="../assets/seasonings/spice_banner.png" alt="" />
+          <img class="img-fluid" src="../assets/seasonings/blends_seasoning.png" alt="" />
           <h2
             class="fw-600 position-absolute bottom-0 start-0 text-white pb-md-5"
           >
@@ -18,7 +18,7 @@
     <!-- SPICES -->
     <div class="container spices">
       <div class="row">
-        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
           <img class="img-fluid" src="../assets/seasonings/black_pepper_2.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
             <p class="title text-start">Black Pepper</p>
@@ -33,9 +33,9 @@ Use black pepper to add flavour to meat, fish, vegetables and more.
             <button class="bg-black px-5 text-white">soon available</button>
           </div>
         </div>
-        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
           <img class="img-fluid" src="../assets/seasonings/fajita_1.png" alt="" />
-          <div class="d-flex flex-column align-items-start">
+          <div class="d-flex flex-column align-items-start p-5">
             <p class="title text-start">Fajita</p>
             <p class="desc text-start">
               Authentically delicious fajitas are perfect for more recipe ideas. 
@@ -49,7 +49,7 @@ A hot blend of Fajita Spice can elevate any recipe; especially Mexican cuisine f
             <button class="bg-black px-5 text-white">soon available</button>
           </div>
         </div>
-        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
           <img class="img-fluid" src="../assets/seasonings/garam_masala_1.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
             <p class="title text-start">Garam Masala</p>
@@ -64,7 +64,7 @@ Aromatic and spicy blend perfect for making roast chicken; also, pairs great wit
             <button class="bg-black px-5 text-white">soon available</button>
           </div>
         </div>
-        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
           <img class="img-fluid" src="../assets/seasonings/white_pepper_1.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
             <p class="title text-start">White Pepper</p>
@@ -80,7 +80,7 @@ Also white pepper is a key ingredient in Chinese cuisine and more common than bl
             <button class="bg-black px-5 text-white">soon available</button>
           </div>
         </div>
-        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
           <img class="img-fluid" src="../assets/seasonings/kajun_1.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
             <p class="title text-start">Cajun</p>
@@ -96,7 +96,7 @@ Cajun has an intense flavour similar to curry.
             <button class="bg-black px-5 text-white">soon available</button>
           </div>
         </div>
-        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
           <img class="img-fluid" src="../assets/seasonings/steak_seasoning.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
             <p class="title text-start">Steak Seasoning</p>
@@ -112,7 +112,7 @@ Taste-test to see if the steak needs a bit of steak seasoning. Cook your steak u
             <button class="bg-black px-5 text-white">soon available</button>
           </div>
         </div>
-        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
           <img class="img-fluid" src="../assets/seasonings/garam_masala_1.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
             <p class="title text-start">Garam Masala</p>
@@ -127,7 +127,7 @@ Aromatic and spicy blend perfect for making roast chicken; also, pairs great wit
             <button class="bg-black px-5 text-white">soon available</button>
           </div>
         </div>
-        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+        <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
           <img class="img-fluid" src="../assets/seasonings/white_pepper_1.png" alt="" />
           <div class="d-flex flex-column align-items-start p-5">
             <p class="title text-start">White Pepper</p>

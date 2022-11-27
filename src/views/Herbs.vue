@@ -5,7 +5,7 @@
       <div class="spices-banner">
         <div class="container-fluid p-0 overflow-hidden">
           <div class="row p-0 position-relative">
-            <img class="img-fluid" src="../assets/seasonings/spice_banner.png" alt="" />
+            <img class="img-fluid" src="../assets/herbs/herbs.png" alt="" />
             <h2
               class="fw-600 position-absolute bottom-0 start-0 text-white pb-md-5"
             >
@@ -18,7 +18,7 @@
       <!-- SPICES -->
       <div class="container spices">
         <div class="row">
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/herbs/basil_dried.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Basil </p>
@@ -36,7 +36,7 @@
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/herbs/celery.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Celery Seeds </p>
@@ -51,7 +51,7 @@
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/herbs/FENNELSEEDS.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Fennel  </p>
@@ -69,7 +69,7 @@
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/herbs/lavender.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Lavender   </p>
@@ -84,7 +84,7 @@
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/herbs/Mint_Dried.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Mint    </p>
@@ -102,7 +102,7 @@
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/herbs/parsley_dried.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Parsley    </p>
@@ -118,7 +118,7 @@ In Middle Eastern cuisine, parsley adds freshness and color.
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/herbs/rosemary.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Parsley    </p>
@@ -136,7 +136,7 @@ In Middle Eastern cuisine, parsley adds freshness and color.
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/herbs/tarragon.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Tarragon     </p>
@@ -154,7 +154,7 @@ In Middle Eastern cuisine, parsley adds freshness and color.
 
             </div>
           </div>
-          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-md-row align-items-start al,gn-items-md-center">
+          <div class="col-12 col-md-6 mb-5 spice color-dark d-flex flex-column flex-lg-row  align-items-center">
             <img class="img-fluid" src="../assets/herbs/thyme.png" alt="" />
             <div class="d-flex flex-column align-items-start p-5">
               <p class="title text-start">Thyme      </p>
